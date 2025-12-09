@@ -1,6 +1,6 @@
 # North America Sales Dashboard
 
-![North America Sales Dashboard](Screenshot-2025-08-18-201941.jpg)
+![sales-analysis-dashboard](sales_dashboard.png)
 
 An **interactive Power BI dashboard** built on the **Superstore sales dataset** to analyze North America retail performance.  
 This project showcases **revenue, cost, profit, quantity, delivery rate, and average delivery days**, along with breakdowns by customer, state, and product segments.
